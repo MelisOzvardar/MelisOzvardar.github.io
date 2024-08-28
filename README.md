@@ -27,7 +27,7 @@
 
  <div id="interwebs" style="text-align:center; margin-bottom:20px">
 			<i><p class="centered" style="padding-bottom:5px">find me here!</p></i>
-			<a class="interweb" href="https://github.com/MelisOzvardar"><</a>
+			<a class="interweb" href="https://github.com/MelisOzvardar">github</a>
 		</div>
 
 </body>
